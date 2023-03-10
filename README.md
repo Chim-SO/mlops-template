@@ -1,7 +1,11 @@
-mlops_template
-==============================
+# MLOps template
 
-This is MLOps Github template 
+_A logical, reasonably standardized, but flexible project structure for MLOps._  
+* This template is presented in my tutorial : [Structuring Your Machine Learning Project with MLOps in Mind]().
+* It is based on the [Cookiecutter Data Science](https://github.com/drivendata/cookiecutter-data-science) template.
+* It is updated to meet the MLOps workflow described in my tutorial: [here](https://towardsdatascience.com/a-beginner-friendly-introduction-to-mlops-95282f25325c#aabc).
+* You can find the project in: [Project homepage](https://github.com/Chim-SO/mlops-template/).
+
 
 ### Project Organization
 
