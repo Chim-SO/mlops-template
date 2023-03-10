@@ -58,6 +58,6 @@ mlops_template/
 
 
 --------
-<p><small>Project based on the <a target="_blank" href="https://github.com/Chim-SO/mlops_template/">Github MLOps project template</a>
+<p><small>Project based on the <a target="_blank" href="https://github.com/Chim-SO/mlops-template">Github MLOps project template</a>
 that is originally based on <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. 
 #cookiecuttermlops #cookiecutterdatascience</small></p>
